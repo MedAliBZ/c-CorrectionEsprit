@@ -2,10 +2,21 @@
 1603378026 source:d:\c++\td4_ex3\main.cpp
 	"ouvrier.h"
 
-1603378308 d:\c++\td4_ex3\ouvrier.h
+1604442355 d:\c++\td4_ex3\ouvrier.h
 	<iostream>
 	<string>
 
 1603378308 source:d:\c++\td4_ex3\ouvrier.cpp
+	"ouvrier.h"
+
+1604442355 source:d:\c++\td4_ex3\biblio.cpp
+	<iostream>
+	<string>
+	<list>
+	"biblio.h"
+	<algorithm>
+
+1604442355 d:\c++\td4_ex3\biblio.h
+	<list>
 	"ouvrier.h"
 
