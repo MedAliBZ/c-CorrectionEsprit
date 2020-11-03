@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1601838966 source:d:\c++\td2_ex2\main.cpp
+	<iostream>
+	<string>
+	"compte.h"
+
+1601764745 d:\c++\td2_ex2\class.h
+
+1601759220 source:d:\c++\td2_ex2\class.cpp
+	<iostream>
+	<string>
+	"class.h"
+
+1601764818 source:c:\users\user\desktop\td2_ex2\class.cpp
+	<iostream>
+	<string>
+	"class.h"
+
+1601764745 c:\users\user\desktop\td2_ex2\class.h
+
+1601838966 source:c:\users\user\desktop\td2_ex2\main.cpp
+	<iostream>
+	<string>
+	"compte.h"
+
+1601839157 source:c:\users\user\desktop\td2_ex2\compte.cpp
+	<iostream>
+	<string>
+	"compte.h"
+
+1601839183 c:\users\user\desktop\td2_ex2\compte.h
+
+1602440938 d:\c++\td2_ex2\compte.h
+
+1602440928 source:d:\c++\td2_ex2\compte.cpp
+	<iostream>
+	<string>
+	"compte.h"
+

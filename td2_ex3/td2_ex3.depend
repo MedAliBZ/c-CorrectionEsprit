@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1602074872 source:d:\c++\td2_ex3\main.cpp
+	<iostream>
+	<string>
+
+1602074711 d:\c++\td2_ex3\abonne.h
+
+1602074715 source:d:\c++\td2_ex3\abonne.cpp
+	<iostream>
+	<string>
+	"abonne.h"
+

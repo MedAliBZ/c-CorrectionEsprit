@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1602854203 source:d:\c++\ex2_td4\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	"evenement.h"
+	"menu.h"
+
+1602853407 d:\c++\ex2_td4\evenement.h
+
+1602853407 source:d:\c++\ex2_td4\evenement.cpp
+	<iostream>
+	<string>
+	<vector>
+	"evenement.h"
+	"menu.h"
+
+1602856622 d:\c++\ex2_td4\menu.h
+
+1602853694 source:d:\c++\ex2_td4\menu.cpp
+	<iostream>
+	<string>
+	<vector>
+	"evenement.h"
+	"menu.h"
+

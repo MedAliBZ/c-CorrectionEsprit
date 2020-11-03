@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1602174115 source:d:\c++\ex4 td3\note.cpp
+	<iostream>
+	"note.h"
+
+1602174525 d:\c++\ex4 td3\note.h
+
+1602174205 source:d:\c++\ex4 td3\main.cpp
+	<iostream>
+	"note.h"
+

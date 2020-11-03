@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1603378026 source:d:\c++\td4_ex3\main.cpp
+	"ouvrier.h"
+
+1603378308 d:\c++\td4_ex3\ouvrier.h
+	<iostream>
+	<string>
+
+1603378308 source:d:\c++\td4_ex3\ouvrier.cpp
+	"ouvrier.h"
+

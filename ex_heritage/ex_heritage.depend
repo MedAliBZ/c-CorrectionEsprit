@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1603898906 source:d:\c++\ex_heritage\main.cpp
+	<iostream>
+	<string>
+	"Vehicule.h"
+	"Voiture.h"
+	"Avion.h"
+
+1603897879 d:\c++\ex_heritage\include\vehicule.h
+	<iostream>
+	<string>
+
+1603898990 source:d:\c++\ex_heritage\src\vehicule.cpp
+	"Vehicule.h"
+
+1603898615 source:d:\c++\ex_heritage\src\avion.cpp
+	"Avion.h"
+
+1603897742 d:\c++\ex_heritage\include\avion.h
+	<Vehicule.h>
+
+1603898990 source:d:\c++\ex_heritage\src\voiture.cpp
+	"Voiture.h"
+
+1603897742 d:\c++\ex_heritage\include\voiture.h
+	<Vehicule.h>
+

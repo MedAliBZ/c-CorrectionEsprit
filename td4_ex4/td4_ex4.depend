@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1603377462 source:d:\c++\td4_ex4\annee.cpp
+	"annee.h"
+
+1602952266 source:d:\c++\td4_ex4\main.cpp
+	"annee.h"
+
+1603377462 d:\c++\td4_ex4\annee.h
+	"evenement.h"
+
+1602952763 d:\c++\td4_ex4\evenement.h
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+
+1602944114 source:d:\c++\td4_ex4\evenement.cpp
+	"evenement.h"
+

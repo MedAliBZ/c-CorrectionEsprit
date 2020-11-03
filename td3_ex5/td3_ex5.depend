@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1602340892 source:d:\c++\td3_ex5\main.cpp
+	<iostream>
+	<string>
+	"voyage.h"
+
+1602436610 d:\c++\td3_ex5\voyage.h
+
+1602436610 source:d:\c++\td3_ex5\voyage.cpp
+	<iostream>
+	<string>
+	"voyage.h"
+

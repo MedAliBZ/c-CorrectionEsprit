@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1600964316 source:d:\c++\td_ex3\main.cpp
+	<iostream>
+	<string>
+	"class.h"
+
+1600964268 source:d:\c++\td_ex3\class.cpp
+	<iostream>
+	<string>
+	"class.h"
+
+1600964399 d:\c++\td_ex3\class.h
+
